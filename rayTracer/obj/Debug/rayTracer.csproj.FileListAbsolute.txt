@@ -1,0 +1,10 @@
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\bin\Debug\rayTracer.exe.config
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\bin\Debug\rayTracer.exe
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\bin\Debug\rayTracer.pdb
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\obj\Debug\rayTracer.csprojResolveAssemblyReference.cache
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\obj\Debug\rayTracer.Properties.Resources.resources
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\obj\Debug\rayTracer.csproj.GenerateResource.Cache
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\obj\Debug\rayTracer.exe
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\obj\Debug\rayTracer.pdb
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\obj\Debug\rayTracer.rayTracerUI.resources
+c:\users\jerro\documents\visual studio 2015\Projects\rayTracer\rayTracer\bin\Debug\Cloo.clSharp.dll
